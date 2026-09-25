@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "amount": 300,
+    "category": "Pizza",
+    "description": "bought it",
+    "date": "2026-09-25"
+  },
+  {
+    "id": 2,
+    "amount": 45,
+    "category": "Lasagna",
+    "description": "bought it",
+    "date": "2026-09-25"
+  },
+  {
+    "id": 3,
+    "amount": 32,
+    "category": "Soup",
+    "description": "bought it",
+    "date": "2026-09-25"
+  }
+]
