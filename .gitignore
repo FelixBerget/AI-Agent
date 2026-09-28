@@ -1,2 +1,5 @@
 .env
 transactions.json
+music_storage.json
+transactions-checkpoint.json
+music_storage-checkpoint.json
